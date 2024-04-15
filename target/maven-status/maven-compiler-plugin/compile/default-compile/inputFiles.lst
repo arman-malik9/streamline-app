@@ -1,7 +1,7 @@
-/home/gcp_akas/streamline-application/src/main/java/com/stream/streamline/model/LogInModel.java
-/home/gcp_akas/streamline-application/src/main/java/com/stream/streamline/service/impl/StreamlineServiceImpl.java
-/home/gcp_akas/streamline-application/src/main/java/com/stream/streamline/controller/IndexController.java
-/home/gcp_akas/streamline-application/src/main/java/com/stream/streamline/service/StreamlineService.java
-/home/gcp_akas/streamline-application/src/main/java/com/stream/streamline/repository/Streamlinerepo.java
-/home/gcp_akas/streamline-application/src/main/java/com/stream/streamline/model/SignUpModel.java
-/home/gcp_akas/streamline-application/src/main/java/com/stream/streamline/StreamlineApplication.java
+/home/arman/streamline-app/src/main/java/com/stream/streamline/service/StreamlineService.java
+/home/arman/streamline-app/src/main/java/com/stream/streamline/controller/IndexController.java
+/home/arman/streamline-app/src/main/java/com/stream/streamline/model/LogInModel.java
+/home/arman/streamline-app/src/main/java/com/stream/streamline/StreamlineApplication.java
+/home/arman/streamline-app/src/main/java/com/stream/streamline/model/SignUpModel.java
+/home/arman/streamline-app/src/main/java/com/stream/streamline/service/impl/StreamlineServiceImpl.java
+/home/arman/streamline-app/src/main/java/com/stream/streamline/repository/Streamlinerepo.java
